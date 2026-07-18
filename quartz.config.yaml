@@ -215,11 +215,11 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/dheepakg/vault5
+        GitHub: https://github.com/dheepakg/vault
         Twitter: https://twitter.com/dheepakg
         Bluesky: https://bsky.app/profile/dheepak.bsky.social
-        Changelog: https://dheepakg.github.io/vault5/changelog
-        Credits: https://dheepakg.github.io/vault5/credits
+        Changelog: https://dheepakg.github.io/vault/changelog
+        Credits: https://dheepakg.github.io/vault/credits
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
