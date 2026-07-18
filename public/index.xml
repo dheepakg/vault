@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Second Brain</title>
+      <link>https://dheepakg.github.io/vault</link>
+      <description>Last 10 notes on Second Brain</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://dheepakg.github.io/vault/tags/</link>
+    <guid>https://dheepakg.github.io/vault/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 18 Jul 2026 19:32:23 GMT</pubDate>
+  </item><item>
+    <title>Changelog</title>
+    <link>https://dheepakg.github.io/vault/changelog</link>
+    <guid>https://dheepakg.github.io/vault/changelog</guid>
+    <description><![CDATA[ 2026-07-14 Changed - Origin of term Dollar Changed - Solomon’s Paradox Changed - AI vs ML vs DL 2026-07-12 Changed: Natural scrolling . ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item><item>
+    <title>Credits</title>
+    <link>https://dheepakg.github.io/vault/credits</link>
+    <guid>https://dheepakg.github.io/vault/credits</guid>
+    <description><![CDATA[ Thanks to Jacky Zhao for building Quartz5. Big thanks to Data Engineering Vault from Simon Späti, for reintroducing the Obsidian usage. ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item><item>
+    <title>AI vs ML vs DL</title>
+    <link>https://dheepakg.github.io/vault/dl/ai-vs-ml-vs-dl</link>
+    <guid>https://dheepakg.github.io/vault/dl/ai-vs-ml-vs-dl</guid>
+    <description><![CDATA[  AI - Technique that enables computer to mimic human behaviour ML - Ability to learn without explicitly being programmed DL - Extract patterns from data using Neural Networks Major libraries Tensorflow from Google Pytorch from Facebook, this is based on Torch These are built on Tensors, a mathematic... ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item><item>
+    <title>Tensors</title>
+    <link>https://dheepakg.github.io/vault/dl/tensors</link>
+    <guid>https://dheepakg.github.io/vault/dl/tensors</guid>
+    <description><![CDATA[ The word tensor comes from the Latin word tendere meaning “to stretch”. ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item><item>
+    <title>Torch</title>
+    <link>https://dheepakg.github.io/vault/dl/torch</link>
+    <guid>https://dheepakg.github.io/vault/dl/torch</guid>
+    <description><![CDATA[ As I understand, torch is an open-source language used for machine learning. ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item><item>
+    <title>Deep Learning</title>
+    <link>https://dheepakg.github.io/vault/dl/</link>
+    <guid>https://dheepakg.github.io/vault/dl/</guid>
+    <description><![CDATA[ This page covers some of the basic topics in AI domain. The notes are created while learning the Deep Learning. ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item><item>
+    <title>Natural Scrolling</title>
+    <link>https://dheepakg.github.io/vault/til/natural-scrolling</link>
+    <guid>https://dheepakg.github.io/vault/til/natural-scrolling</guid>
+    <description><![CDATA[ When you mouse across between Mac &amp; Windows (or linux) you’ll notice scrolling gets reversed in Mac. The reason is Natural Scrolling is enabled. ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item><item>
+    <title>Origin of term Dollar</title>
+    <link>https://dheepakg.github.io/vault/til/origin-of-term-dollar</link>
+    <guid>https://dheepakg.github.io/vault/til/origin-of-term-dollar</guid>
+    <description><![CDATA[ Dollar originated from Tal (-valley) in German says this page - Periscopeglobal - substack. ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item><item>
+    <title>Solomon&#039;s  Paradox</title>
+    <link>https://dheepakg.github.io/vault/til/solomon's--paradox</link>
+    <guid>https://dheepakg.github.io/vault/til/solomon's--paradox</guid>
+    <description><![CDATA[ Solomon’s paradox is the observation that people can give reasonable advice to others, but fail to apply this advice to their own situation. ]]></description>
+    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
