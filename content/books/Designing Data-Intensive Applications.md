@@ -8,11 +8,10 @@ edition: "2"
 pages: "672"
 started on: 2026-07-27
 ---
-This book is part of almost every list of must-reads for data professionals. Here's some of my notes & highlights. 
+This book is part of almost every list of must-reads for data professionals. Here's some of my notes & highlights.
 
 ## 1. Trade-Offs in Data Systems Architecture
 
->[!quote] There are no solutions; there are only trade-offs. ... But you try to get the best trade.   [Thomas Sowell](https://www.youtube.com/watch?v=2YUtKr8-_Fg)
 
 While in ==compute-intensive== systems the challenge is parallelizing a very large computation, in ==data-intensive applications== we usually worry more about things like storing and processing large data volumes, managing changes to data, ensuring consistency in the face of failures and concurrency, and making sure services are highly available.
 ### Operational vs Analytical Systems
@@ -41,11 +40,11 @@ Data in a derived system is the result of taking existing data from another syst
 
 A common rule of thumb is that things that are a core competency or a competitive advantage of your organization should be done in-house, whereas things that are non-core, routine, or commonplace should be left to a vendor.
 
-- If you need a system that you don’t already know how to deploy and operate, adopting a cloud service is often easier and quicker than learning to manage the system. 
-	- Hiring and training staff specifically to maintain and operate the system can get very expensive. 
+- If you need a system that you don’t already know how to deploy and operate, adopting a cloud service is often easier and quicker than learning to manage the system.
+	- Hiring and training staff specifically to maintain and operate the system can get very expensive.
 	- You still need an operations team when you’re using the cloud, but outsourcing the basic system administration can free up your team to focus on higher-level concerns.
 
-- Cloud services are particularly valuable if the load on your systems varies a lot over time. If you provision your machines to be able to handle peak load, but those computing resources are idle most of the time, the system becomes less cost-effective. 
+- Cloud services are particularly valuable if the load on your systems varies a lot over time. If you provision your machines to be able to handle peak load, but those computing resources are idle most of the time, the system becomes less cost-effective.
 	- In this situation, cloud services have the advantage that they can make it easier to scale your computing resources up or down in response to changes in demand.
 
 - As a general rule, higher-level abstractions tend to be more oriented toward particular use cases.
@@ -79,7 +78,7 @@ Serverless, or function as a service (FaaS), is another approach to deploying se
 
 Cloud computing is not the only way of building large-scale computing systems; an alternative is ==high-performance computing (HPC)==, also known as supercomputing.
 
-- Supercomputers are typically used for computationally intensive scientific computing tasks, such as weather forecasting, climate modeling, complex optimization problems, and solving partial differential equations. 
+- Supercomputers are typically used for computationally intensive scientific computing tasks, such as weather forecasting, climate modeling, complex optimization problems, and solving partial differential equations.
 	- On the other hand, cloud computing tends to be used for online services, business data systems, and similar systems that need to serve user requests with high availability.
 
 - A supercomputer typically runs large batch jobs that checkpoint the state of their computation to disk from time to time. If a node fails, a common solution is to simply stop the entire cluster workload, repair the faulty node, and then restart the computation from the last checkpoint.
@@ -89,12 +88,12 @@ Cloud computing is not the only way of building large-scale computing systems; a
 
 ### Data Systems, Law, and Society
 
-- We store data because we think that its value is greater than the costs of storing it. However, it is worth remembering that the costs of storage extend beyond the bill you pay for S3 or another service. 
-- The cost-benefit calculation should also take into account 
-	- the risks of liability and ==reputational damage if the data were to be leaked== or compromised by adversaries, and 
+- We store data because we think that its value is greater than the costs of storing it. However, it is worth remembering that the costs of storage extend beyond the bill you pay for S3 or another service.
+- The cost-benefit calculation should also take into account
+	- the risks of liability and ==reputational damage if the data were to be leaked== or compromised by adversaries, and
 	- the risk of legal costs and fines if the storage and processing of the data is found ==not to be compliant with the law==
 
 **Datensparsamkeit aka Data Minimization**
 
-- Once all the risks are taken into account, it might be reasonable to decide that some data is simply not worth storing, and that it should therefore be deleted. 
+- Once all the risks are taken into account, it might be reasonable to decide that some data is simply not worth storing, and that it should therefore be deleted.
 - This principle of data minimization (sometimes known by the German term Datensparsamkeit) runs counter to the “big data” philosophy of storing lots of data speculatively in case it turns out to be useful in the future

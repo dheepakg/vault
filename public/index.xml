@@ -6,65 +6,65 @@
       <description>Last 10 notes on Second Brain</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Quotes</title>
+    <link>https://dheepakg.github.io/vault/quotes/</link>
+    <guid>https://dheepakg.github.io/vault/quotes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:29:31 GMT</pubDate>
+  </item><item>
+    <title>quote</title>
+    <link>https://dheepakg.github.io/vault/tags/quote</link>
+    <guid>https://dheepakg.github.io/vault/tags/quote</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:29:31 GMT</pubDate>
+  </item><item>
+    <title>solution</title>
+    <link>https://dheepakg.github.io/vault/tags/solution</link>
+    <guid>https://dheepakg.github.io/vault/tags/solution</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:29:31 GMT</pubDate>
+  </item><item>
+    <title>data</title>
+    <link>https://dheepakg.github.io/vault/tags/data</link>
+    <guid>https://dheepakg.github.io/vault/tags/data</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:29:31 GMT</pubDate>
+  </item><item>
+    <title>design</title>
+    <link>https://dheepakg.github.io/vault/tags/design</link>
+    <guid>https://dheepakg.github.io/vault/tags/design</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:29:31 GMT</pubDate>
+  </item><item>
     <title>Tag Index</title>
     <link>https://dheepakg.github.io/vault/tags/</link>
     <guid>https://dheepakg.github.io/vault/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 18 Jul 2026 19:40:54 GMT</pubDate>
+    <pubDate>Wed, 29 Jul 2026 16:29:31 GMT</pubDate>
   </item><item>
-    <title>Changelog</title>
-    <link>https://dheepakg.github.io/vault/changelog</link>
-    <guid>https://dheepakg.github.io/vault/changelog</guid>
-    <description><![CDATA[ 2026-07-14 Changed - Origin of term Dollar Changed - Solomon’s Paradox Changed - AI vs ML vs DL 2026-07-12 Changed: Natural scrolling . ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+    <title>Designing Data-Intensive Applications</title>
+    <link>https://dheepakg.github.io/vault/books/designing-data-intensive-applications</link>
+    <guid>https://dheepakg.github.io/vault/books/designing-data-intensive-applications</guid>
+    <description><![CDATA[ This book is part of almost every list of must-reads for data professionals. Here’s some of my notes &amp; highlights. 1. ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:29:30 GMT</pubDate>
   </item><item>
-    <title>Credits</title>
-    <link>https://dheepakg.github.io/vault/credits</link>
-    <guid>https://dheepakg.github.io/vault/credits</guid>
-    <description><![CDATA[ Thanks to Jacky Zhao for building Quartz5. Big thanks to Data Engineering Vault from Simon Späti, for reintroducing the Obsidian usage. ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+    <title>Solution &amp; Trade-offs</title>
+    <link>https://dheepakg.github.io/vault/quotes/solution--and--trade-offs</link>
+    <guid>https://dheepakg.github.io/vault/quotes/solution--and--trade-offs</guid>
+    <description><![CDATA[  There are no solutions; there are only trade-offs. … But you try to get the best trade-off you can get, and that’s all you can hope for. ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:12:47 GMT</pubDate>
   </item><item>
-    <title>AI vs ML vs DL</title>
-    <link>https://dheepakg.github.io/vault/dl/ai-vs-ml-vs-dl</link>
-    <guid>https://dheepakg.github.io/vault/dl/ai-vs-ml-vs-dl</guid>
-    <description><![CDATA[  AI - Technique that enables computer to mimic human behaviour ML - Ability to learn without explicitly being programmed DL - Extract patterns from data using Neural Networks Major libraries Tensorflow from Google Pytorch from Facebook, this is based on Torch These are built on Tensors, a mathematic... ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+    <title>My version of Second brain</title>
+    <link>https://dheepakg.github.io/vault/</link>
+    <guid>https://dheepakg.github.io/vault/</guid>
+    <description><![CDATA[ This vault holds some of the notes from Deep learning. I also gather TILs. There are some notes &amp; highlights from the book I read. ]]></description>
+    <pubDate>Wed, 29 Jul 2026 01:44:10 GMT</pubDate>
   </item><item>
-    <title>Tensors</title>
-    <link>https://dheepakg.github.io/vault/dl/tensors</link>
-    <guid>https://dheepakg.github.io/vault/dl/tensors</guid>
-    <description><![CDATA[ The word tensor comes from the Latin word tendere meaning “to stretch”. ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
-  </item><item>
-    <title>Torch</title>
-    <link>https://dheepakg.github.io/vault/dl/torch</link>
-    <guid>https://dheepakg.github.io/vault/dl/torch</guid>
-    <description><![CDATA[ As I understand, torch is an open-source language used for machine learning. ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
-  </item><item>
-    <title>Deep Learning</title>
-    <link>https://dheepakg.github.io/vault/dl/</link>
-    <guid>https://dheepakg.github.io/vault/dl/</guid>
-    <description><![CDATA[ This page covers some of the basic topics in AI domain. The notes are created while learning the Deep Learning. ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
-  </item><item>
-    <title>Natural Scrolling</title>
-    <link>https://dheepakg.github.io/vault/til/natural-scrolling</link>
-    <guid>https://dheepakg.github.io/vault/til/natural-scrolling</guid>
-    <description><![CDATA[ When you mouse across between Mac &amp; Windows (or linux) you’ll notice scrolling gets reversed in Mac. The reason is Natural Scrolling is enabled. ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
-  </item><item>
-    <title>Origin of term Dollar</title>
-    <link>https://dheepakg.github.io/vault/til/origin-of-term-dollar</link>
-    <guid>https://dheepakg.github.io/vault/til/origin-of-term-dollar</guid>
-    <description><![CDATA[ Dollar originated from Tal (-valley) in German says this page - Periscopeglobal - substack. ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
-  </item><item>
-    <title>Solomon&#039;s  Paradox</title>
-    <link>https://dheepakg.github.io/vault/til/solomon's--paradox</link>
-    <guid>https://dheepakg.github.io/vault/til/solomon's--paradox</guid>
-    <description><![CDATA[ Solomon’s paradox is the observation that people can give reasonable advice to others, but fail to apply this advice to their own situation. ]]></description>
-    <pubDate>Sat, 18 Jul 2026 09:00:06 GMT</pubDate>
+    <title>Books</title>
+    <link>https://dheepakg.github.io/vault/books/</link>
+    <guid>https://dheepakg.github.io/vault/books/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 01:44:10 GMT</pubDate>
   </item>
     </channel>
   </rss>
