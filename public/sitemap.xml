@@ -1,15 +1,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://dheepakg.github.io/vault/changelog</loc>
-    <lastmod>2026-07-18T09:00:06.000Z</lastmod>
+    <lastmod>2026-07-29T16:30:56.000Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/credits</loc>
     <lastmod>2026-07-18T09:00:06.000Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/</loc>
     <lastmod>2026-07-29T01:44:10.000Z</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/vault/quotes/solution--and--trade-offs</loc>
-    <lastmod>2026-07-29T16:12:47.379Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/dl/ai-vs-ml-vs-dl</loc>
     <lastmod>2026-07-18T09:00:06.000Z</lastmod>
@@ -23,8 +20,11 @@
     <loc>https://dheepakg.github.io/vault/dl/</loc>
     <lastmod>2026-07-18T09:00:06.000Z</lastmod>
   </url><url>
+    <loc>https://dheepakg.github.io/vault/quotes/solution--and--trade-offs</loc>
+    <lastmod>2026-07-29T16:30:56.000Z</lastmod>
+  </url><url>
     <loc>https://dheepakg.github.io/vault/books/designing-data-intensive-applications</loc>
-    <lastmod>2026-07-29T16:29:30.871Z</lastmod>
+    <lastmod>2026-07-29T16:30:56.000Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/books/</loc>
     <lastmod>2026-07-29T01:44:10.000Z</lastmod>
@@ -41,21 +41,27 @@
     <loc>https://dheepakg.github.io/vault/til/</loc>
     <lastmod>2026-07-18T09:00:06.000Z</lastmod>
   </url><url>
+    <loc>https://dheepakg.github.io/vault/templates/quotes</loc>
+    <lastmod>2026-07-29T16:47:39.356Z</lastmod>
+  </url><url>
     <loc>https://dheepakg.github.io/vault/quotes/</loc>
-    <lastmod>2026-07-29T16:29:31.696Z</lastmod>
+    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/templates/</loc>
+    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/quote</loc>
-    <lastmod>2026-07-29T16:29:31.696Z</lastmod>
+    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/solution</loc>
-    <lastmod>2026-07-29T16:29:31.696Z</lastmod>
+    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/data</loc>
-    <lastmod>2026-07-29T16:29:31.696Z</lastmod>
+    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/design</loc>
-    <lastmod>2026-07-29T16:29:31.696Z</lastmod>
+    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/</loc>
-    <lastmod>2026-07-29T16:29:31.696Z</lastmod>
+    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
   </url></urlset>
