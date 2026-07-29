@@ -1,0 +1,101 @@
+---
+author: Martin Kleppmann, Chris Riccomini
+draft: "false"
+tags:
+  - data
+  - design
+edition: "2"
+pages: "672"
+started on: 2026-07-27
+---
+This book is part of almost every list of must-reads for data professionals. Here's some of my notes & highlights. 
+
+## 1. Trade-Offs in Data Systems Architecture
+
+>[!quote] There are no solutions; there are only trade-offs. […] But you try to get the best trade
+[Thomas Sowell](https://www.youtube.com/watch?v=2YUtKr8-_Fg)
+
+While in ==compute-intensive== systems the challenge is parallelizing a very large computation, in ==data-intensive applications== we usually worry more about things like storing and processing large data volumes, managing changes to data, ensuring consistency in the face of failures and concurrency, and making sure services are highly available.
+### Operational vs Analytical Systems
+
+- Operational Systems aka OLTP (online transaction processing)
+- Analytical Systems aka OLAP ( online analytical processing)
+
+### Datawarehousing vs Data Lake
+
+- A data warehouse often uses a _relational_ data model that is queried through SQL using specialized BI software.
+
+The difference from a data warehouse is that a ==data lake simply contains files, without imposing any particular file format, data model, or schema.== Files in a data lake might be collections of database records, encoded using a file format such as Avro or Parquet, but a data lake can equally well contain text, images, videos, sensor readings, sparse matrices, feature vectors, genome sequences, or any other kind of data.
+
+**System of Record**
+
+A system of record, also known as a source of truth, holds the authoritative or canonical version of data. When new data comes in—for example, as user input—it is first written here. Each fact is represented exactly once (the representation is typically normalized;
+
+**Derived Data Systems**
+
+Data in a derived system is the result of taking existing data from another system and transforming or processing it in some way. If you lose derived data, you can re-create it from the original source.
+
+- Derived data is redundant, in the sense that it duplicates existing information. However, this data is often essential for getting good performance on read queries. You can derive several datasets from a single source, enabling you to look at the data from different points of view.
+
+### Cloud vs. Self-hosting
+
+
+A common rule of thumb is that things that are a core competency or a competitive advantage of your organization should be done in-house, whereas things that are non-core, routine, or commonplace should be left to a vendor.
+
+- If you need a system that you don’t already know how to deploy and operate, adopting a cloud service is often easier and quicker than learning to manage the system. 
+	- Hiring and training staff specifically to maintain and operate the system can get very expensive. 
+	- You still need an operations team when you’re using the cloud, but outsourcing the basic system administration can free up your team to focus on higher-level concerns.
+
+- Cloud services are particularly valuable if the load on your systems varies a lot over time. If you provision your machines to be able to handle peak load, but those computing resources are idle most of the time, the system becomes less cost-effective. 
+	- In this situation, cloud services have the advantage that they can make it easier to scale your computing resources up or down in response to changes in demand.
+
+- As a general rule, higher-level abstractions tend to be more oriented toward particular use cases.
+
+
+### Distributes vs. Single-node systems
+
+A system that involves several machines communicating via a network is called a distributed system. Each of the processes participating in a distributed system is called a node.
+
+**Problems with Distributed Systems**
+
+- Distributed systems also have downsides. Every request and API call that traverses the network needs to deal with the possibility of failure. The network may be interrupted, or the service may be overloaded or crash, and therefore any request may time out without receiving a response.
+
+- Performing a task on a single machine is often much simpler and cheaper than setting up a distributed system. CPUs, memory, and disks have grown larger, faster, and more reliable. When combined with single-node databases such as DuckDB, SQLite, and KùzuDB, many workloads can now run on a single node.
+
+- The most common way of distributing a system across multiple machines is to divide them into clients and servers and let the clients make requests to the servers. Most commonly, HTTP is used for this communication
+
+**Microservices Architecture**
+
+In a microservices architecture, a service has one well-defined purpose (e.g., in the case of S3, this is file storage); each service exposes an API that can be called by clients via the network, and each service has one team that is responsible for its maintenance.
+
+Microservices are primarily a technical solution to a people problem: allowing different teams to make progress independently without having to coordinate with each other. This is valuable in a large company, but ==in a small company with fewer teams, using microservices is likely to be unnecessary overhead==, and implementing the application in the simplest way possible is preferable
+
+
+**Serverless**
+
+Serverless, or function as a service (FaaS), is another approach to deploying services, in which the management of the infrastructure is outsourced to a cloud vendor
+
+
+**Cloud Computing Versus Supercomputing**
+
+Cloud computing is not the only way of building large-scale computing systems; an alternative is ==high-performance computing (HPC)==, also known as supercomputing.
+
+- Supercomputers are typically used for computationally intensive scientific computing tasks, such as weather forecasting, climate modeling, complex optimization problems, and solving partial differential equations. 
+	- On the other hand, cloud computing tends to be used for online services, business data systems, and similar systems that need to serve user requests with high availability.
+
+- A supercomputer typically runs large batch jobs that checkpoint the state of their computation to disk from time to time. If a node fails, a common solution is to simply stop the entire cluster workload, repair the faulty node, and then restart the computation from the last checkpoint.
+	- With cloud services, stopping the entire cluster is usually not desirable, since the services need to continually serve users with minimal interruptions.
+
+
+
+### Data Systems, Law, and Society
+
+- We store data because we think that its value is greater than the costs of storing it. However, it is worth remembering that the costs of storage extend beyond the bill you pay for S3 or another service. 
+- The cost-benefit calculation should also take into account 
+	- the risks of liability and ==reputational damage if the data were to be leaked== or compromised by adversaries, and 
+	- the risk of legal costs and fines if the storage and processing of the data is found ==not to be compliant with the law==
+
+**Datensparsamkeit aka Data Minimization**
+
+- Once all the risks are taken into account, it might be reasonable to decide that some data is simply not worth storing, and that it should therefore be deleted. 
+- This principle of data minimization (sometimes known by the German term Datensparsamkeit) runs counter to the “big data” philosophy of storing lots of data speculatively in case it turns out to be useful in the future
