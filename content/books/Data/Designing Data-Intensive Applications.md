@@ -12,7 +12,7 @@ This book is part of almost every list of must-reads for data professionals. Her
 
 ## 1. Trade-Offs in Data Systems Architecture
 
->[!quote] There are no solutions; there are only trade-offs. […] But you try to get the best trade
+>[!quote] There are no solutions; there are only trade-offs. ... But you try to get the best trade
 [Thomas Sowell](https://www.youtube.com/watch?v=2YUtKr8-_Fg)
 
 While in ==compute-intensive== systems the challenge is parallelizing a very large computation, in ==data-intensive applications== we usually worry more about things like storing and processing large data volumes, managing changes to data, ensuring consistency in the face of failures and concurrency, and making sure services are highly available.
