@@ -12,6 +12,8 @@ configuration:
     - private
     - templates
     - .obsidian
+    # - Changelog.md
+    # - Credits.md
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -218,8 +220,8 @@ plugins:
         GitHub: https://github.com/dheepakg/vault
         Twitter: https://twitter.com/dheepakg
         Bluesky: https://bsky.app/profile/dheepak.bsky.social
-        Changelog: https://dheepakg.github.io/vault/changelog
-        Credits: https://dheepakg.github.io/vault/credits
+        Changelog: ./Changelog
+        Credits: ./Credits
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

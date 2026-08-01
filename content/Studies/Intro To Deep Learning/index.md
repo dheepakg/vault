@@ -1,5 +1,9 @@
 ---
-title: Deep Learning
+title: Intro to Deep Learning
+Provider: MIT
+tags:
+  - DeepLearning
+draft: "false"
 ---
 This page covers some of the basic topics in AI domain. The notes are created while learning the Deep Learning. 
 

@@ -1,5 +1,6 @@
 ---
 draft: "false"
+unlisted: true
 title: Changelog
 ---
 
@@ -10,7 +11,7 @@ title: Changelog
 
 - Changed - [Origin of term Dollar](./TIL/Origin%20of%20term%20Dollar.md)
 - Changed - [Solomon's  Paradox](./TIL/Solomon's%20%20Paradox.md)
-- Changed - [AI vs ML vs DL](./DL/AI%20vs%20ML%20vs%20DL.md)
+- Changed - [AI vs ML vs DL](AI%20vs%20ML%20vs%20DL.md)
 ## 2026-07-12
 
 - Changed - [Natural scrolling](./TIL/Natural%20scrolling.md)

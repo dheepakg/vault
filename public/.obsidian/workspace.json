@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83c82e08d794b0d3",
+        "id": "3b57430871f5f051",
         "type": "tabs",
         "children": [
           {
-            "id": "99ee1ffb990d871d",
+            "id": "03a68be16f51c343",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Credits.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Credits"
             }
           }
         ]
@@ -182,22 +186,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "99ee1ffb990d871d",
+  "active": "03a68be16f51c343",
   "lastOpenFiles": [
-    "templates/Quotes.md",
+    "index.md",
+    "HammerSpoon.md",
+    "fast.ai.md",
+    "Credits.md",
+    "Changelog.md",
+    "TIL/index.md",
+    "Books/finance/Warren Buffett And the Interpretation of Financial Statements.md",
+    "Books/finance/4. Bulls, Bears and Other Beasts.md",
+    "Books/finance/3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor.md",
+    "Books/finance/1. The Psychology of Money.md",
+    "Studies/Math/Returns - Cagr vs xirr vs irr.md",
+    "Studies/Math/Mean vs Median vs Percentile vs Standard deviation.md",
+    "Studies/Intro To Deep Learning/Torch.md",
+    "Studies/Intro To Deep Learning/Tensors.md",
+    "Studies/Intro To Deep Learning/index.md",
+    "Studies/Intro To Deep Learning/AI vs ML vs DL.md",
+    "Studies/Intro To Deep Learning/img_aimldl.png",
+    "Invalid date.md",
+    "Studies/Math",
+    "Quotes/On Owenrship.md",
+    "Studies",
     "Quotes/Solution & Trade-offs.md",
+    "templates/Quotes.md",
     "Untitled.md",
     "templates",
-    "Changelog.md",
-    "index.md",
-    "books/Designing Data-Intensive Applications.md",
-    "books/index.md",
+    "Books/Designing Data-Intensive Applications.md",
+    "Books/index.md",
     "Quotes",
-    "books/finance/1. The Psychology of Money.md",
-    "books/finance/3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor.md",
-    "books/finance/4. Bulls, Bears and Other Beasts.md",
     "TIL/Natural scrolling.md",
-    "TIL/index.md",
     "books/Data"
   ]
 }

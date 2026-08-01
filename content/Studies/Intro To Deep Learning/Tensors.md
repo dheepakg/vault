@@ -1,5 +1,8 @@
 ---
 draft: "false"
+tags:
+  - DeepLearning
+title: Tensors
 ---
 
 The word _tensor_ comes from the Latin word _tendere_ meaning "to stretch".

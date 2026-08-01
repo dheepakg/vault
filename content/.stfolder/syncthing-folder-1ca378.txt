@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: fxnvn-tlsua
+created: 2026-07-30T07:16:22+05:30

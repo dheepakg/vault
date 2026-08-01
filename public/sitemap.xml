@@ -1,33 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://dheepakg.github.io/vault/changelog</loc>
-    <lastmod>2026-07-29T16:30:56.000Z</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/vault/credits</loc>
-    <lastmod>2026-07-18T09:00:06.000Z</lastmod>
-  </url><url>
     <loc>https://dheepakg.github.io/vault/</loc>
     <lastmod>2026-07-29T01:44:10.000Z</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/vault/dl/ai-vs-ml-vs-dl</loc>
-    <lastmod>2026-07-18T09:00:06.000Z</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/vault/dl/tensors</loc>
-    <lastmod>2026-07-18T09:00:06.000Z</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/vault/dl/torch</loc>
-    <lastmod>2026-07-18T09:00:06.000Z</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/vault/dl/</loc>
-    <lastmod>2026-07-18T09:00:06.000Z</lastmod>
+    <loc>https://dheepakg.github.io/vault/quotes/on-owenrship</loc>
+    <lastmod>2026-07-30T06:48:36.584Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/quotes/solution--and--trade-offs</loc>
-    <lastmod>2026-07-29T16:30:56.000Z</lastmod>
+    <lastmod>2026-07-29T16:50:56.000Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/books/designing-data-intensive-applications</loc>
-    <lastmod>2026-07-29T16:30:56.000Z</lastmod>
+    <lastmod>2026-07-29T16:29:30.871Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/books/</loc>
-    <lastmod>2026-07-29T01:44:10.000Z</lastmod>
+    <lastmod>2026-07-29T00:57:48.742Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/til/natural-scrolling</loc>
     <lastmod>2026-07-18T09:00:06.000Z</lastmod>
@@ -41,27 +26,60 @@
     <loc>https://dheepakg.github.io/vault/til/</loc>
     <lastmod>2026-07-18T09:00:06.000Z</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/vault/templates/quotes</loc>
-    <lastmod>2026-07-29T16:47:39.356Z</lastmod>
+    <loc>https://dheepakg.github.io/vault/studies/intro-to-deep-learning/ai-vs-ml-vs-dl</loc>
+    <lastmod>2026-08-01T08:10:34.461Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/studies/intro-to-deep-learning/tensors</loc>
+    <lastmod>2026-08-01T08:11:08.115Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/studies/intro-to-deep-learning/torch</loc>
+    <lastmod>2026-08-01T08:11:28.664Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/studies/intro-to-deep-learning/</loc>
+    <lastmod>2026-08-01T08:10:11.398Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/studies/math/mean-vs-median-vs-percentile-vs-standard-deviation</loc>
+    <lastmod>2026-08-01T08:12:27.564Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/studies/math/returns---cagr-vs-xirr-vs-irr</loc>
+    <lastmod>2026-08-01T08:13:26.894Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/quotes/</loc>
-    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/vault/templates/</loc>
-    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
+    <loc>https://dheepakg.github.io/vault/studies/</loc>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/studies/math/</loc>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/tags/starthere</loc>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/quote</loc>
-    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/tags/ownership</loc>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/solution</loc>
-    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/data</loc>
-    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/design</loc>
-    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/tags/deeplearning</loc>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/tags/statistics</loc>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/vault/tags/investment</loc>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/vault/tags/</loc>
-    <lastmod>2026-07-29T16:47:42.224Z</lastmod>
+    <lastmod>2026-08-01T08:36:43.848Z</lastmod>
   </url></urlset>

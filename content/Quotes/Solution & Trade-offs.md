@@ -5,7 +5,7 @@ tags:
   - Quote
   - Solution
 creation date: 2026-07-29
-source: [[Designing Data-Intensive Applications]]
+source: Designing Data-Intensive Applications
 Quote by: Thomas Sowell
 Field: Economist
 ---
