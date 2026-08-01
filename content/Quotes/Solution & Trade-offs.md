@@ -16,5 +16,5 @@ Field: Economist
 
 ## Related
 
-- Came across this quote in the very first chapter of [[Designing Data-Intensive Applications]]. 
+- Came across this quote in the very first chapter of [[1. Trade-Offs in Data Systems Architecture]]. 
 - While looking up I came across his book - [Basic Economics](https://en.wikipedia.org/wiki/Basic_Economics).

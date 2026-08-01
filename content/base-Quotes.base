@@ -1,0 +1,13 @@
+properties:
+  file.name:
+    displayName: Notes
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Quote")
+    order:
+      - Quote by
+      - Field
+      - file.name

@@ -1,13 +1,14 @@
 ---
-title: 4. Bulls, Bears & Other Beasts
+title: Bulls, Bears & Other Beasts
 tags:
-  - finance
-  - investment
   - history
+  - share-market
+  - book
 category: Finance
 Author: Santosh Nair
-date: 2022-04-11
-draft: "true"
+started on: 2022-04-11
+draft: "false"
+cover: cover_images/06-bulls-bears.jpg
 ---
 
 

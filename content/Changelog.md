@@ -5,7 +5,7 @@ title: Changelog
 ---
 
 ## 2026-07-29
-- Changed - [[Designing Data-Intensive Applications]]
+- Changed - [[1. Trade-Offs in Data Systems Architecture]]
 - Changed - [[Solution & Trade-offs]]
 ## 2026-07-14
 

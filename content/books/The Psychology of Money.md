@@ -1,14 +1,16 @@
 ---
-title: 1. The Psychology of Money
+title: The Psychology of Money
 tags:
-    - finance
-    - investment
-    - behaviour
-author: 
+  - finance
+  - behaviour
+  - book
+Author: Morgan Housel
+started on: 2020-11-29
+draft: "false"
 category: Finance
-date: 2020-11-29
-draft: "true"
---- 
+cover: cover_images/01-psych-money.jpg
+---
+
 
 
 
