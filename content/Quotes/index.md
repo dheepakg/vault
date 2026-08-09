@@ -1,6 +1,8 @@
 ---
 title: Quotes
 draft: "false"
+tags:
+  - Quote
 ---
 
 ```base

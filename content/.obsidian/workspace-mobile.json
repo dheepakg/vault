@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f3daf5d6a2789bc",
+        "id": "e6b84507ab1b5ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "d57a9971cb837121",
+            "id": "bdf6e1c6f10e90eb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -166,8 +166,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d57a9971cb837121",
+  "active": "bdf6e1c6f10e90eb",
   "lastOpenFiles": [
+    "Books/Bulls, Bears and Other Beasts.md",
+    "Books/The Psychology of Money.md",
+    "Quotes/index.md",
+    "index.md",
+    "Changelog.md",
     "Invalid date.md",
     "Returns - Cagr vs xirr vs irr.md",
     "Mean vs Median vs Percentile vs Standard deviation.md",
