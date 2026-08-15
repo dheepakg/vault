@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b84507ab1b5ba2",
+        "id": "e4ec2688af07885b",
         "type": "tabs",
         "children": [
           {
-            "id": "bdf6e1c6f10e90eb",
+            "id": "9782c7a8a14773ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +166,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "bdf6e1c6f10e90eb",
+  "active": "9782c7a8a14773ea",
   "lastOpenFiles": [
+    "TIL/Unlicense.md",
     "Books/Bulls, Bears and Other Beasts.md",
     "Books/The Psychology of Money.md",
     "Quotes/index.md",
