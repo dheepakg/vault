@@ -1,1 +1,6 @@
+---
+title: Dollar's origin
+draft: false
+---
+
 Dollar originated from _Tal_ (-valley) in German says this page - [Periscopeglobal - substack](https://periscopeglobal.substack.com/p/from-bohemia-to-bretton-woods-journey#:~:text=the%20convention%20of%20naming%20the%20coin%20after%20the%20%E2%80%9Cthal%E2%80%9D%20it%20was%20minted%20in%20continued.)

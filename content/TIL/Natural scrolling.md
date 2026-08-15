@@ -1,6 +1,6 @@
 ---
 title: Natural Scrolling
-draft: "false"
+draft: false
 ---
 
 

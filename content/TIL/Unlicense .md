@@ -1,0 +1,14 @@
+---
+title: Unlicense
+draft: false
+---
+
+
+There is a license to waive off all the copyright claims on the work.
+
+I came across this when I was looking for [XIRR](./../Studies/Math/Mean%20vs%20Median%20vs%20Mode%20vs%20Standard%20deviation.md) calculation via Python library - [pyxirr](https://pypi.org/project/pyxirr/).
+
+
+
+
+Source: [Unlicense](https://en.wikipedia.org/wiki/Unlicense)
