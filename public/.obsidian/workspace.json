@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82924d202de13c18",
+        "id": "b21613080bb3a760",
         "type": "tabs",
         "children": [
           {
-            "id": "025898d496fec121",
+            "id": "b7e1f238ce011e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes/index.md",
+                "file": "Books/Designing Data-Intensive Applications/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,13 +185,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "bookshelf:Open Bookshelf library": false,
-      "bookshelf:Open Bookshelf statistics": false
+      "bases:Create new base": false
     }
   },
-  "active": "025898d496fec121",
+  "active": "b7e1f238ce011e39",
   "lastOpenFiles": [
+    "Books/Designing Data-Intensive Applications/3. Data Models and Query Languages.md",
+    "Books/Designing Data-Intensive Applications/2. Defining Nonfunctional Requirements.md",
+    "Books/Designing Data-Intensive Applications/1. Trade-Offs in Data Systems Architecture.md",
+    "Books/Designing Data-Intensive Applications/index.md",
+    "Quotes/index.md",
     "Don’t Hold My Data Hostage.pdf",
     "Books/index.md",
     "Books/Bulls, Bears and Other Beasts.md",
@@ -198,17 +203,14 @@
     "Books/cover_images/04-why-we-sleep.jpg",
     "Books/cover_images/06-bulls-bears.jpg",
     "Books/cover_images/01-psych-money.jpg",
-    "Books/Designing Data-Intensive Applications/index.md",
     "Books/cover_images",
     "Books/cover_images/design-data-intensive.jpeg",
-    "Quotes/index.md",
     "base-Quotes.base",
     "base-Books.base",
     "Untitled 1.base",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Books/Designing Data-Intensive Applications/1. Trade-Offs in Data Systems Architecture.md",
     "Quotes/On internet.md",
     "Quotes/Solution & Trade-offs.md",
     "Quotes/On Owenrship.md",
@@ -218,7 +220,6 @@
     "index.md",
     "Studies/Math/Mean vs Median vs Mode vs Standard deviation.md",
     "Studies/Math/Returns - Cagr vs xirr vs irr.md",
-    "Books/Designing Data-Intensive Applications/2. Defining Nonfunctional Requirements.md",
     "Books/Untitled.md",
     "Books/Designing Data-Intensive Applications",
     "Credits.md",

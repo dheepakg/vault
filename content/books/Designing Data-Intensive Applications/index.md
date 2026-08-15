@@ -6,6 +6,7 @@ tags:
   - data
   - design
   - book
+  - DDIA
 edition: "2"
 pages: "672"
 started on: 2026-07-27
