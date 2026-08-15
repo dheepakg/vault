@@ -13,8 +13,6 @@ configuration:
     - templates
     - .obsidian
     - base*.base
-    # - Changelog.md
-    # - Credits.md
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -235,7 +233,8 @@ plugins:
       display: mobile-only
   - source: github:quartz-community/bases-page
     enabled: true
-    options: {unlisted: true}
+    options:
+      unlisted: true
     order: 50
   - source: github:quartz-community/note-properties
     enabled: true
