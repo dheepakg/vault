@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/index.md",
+                "file": "TIL/Unlicense (CC Zero).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Unlicense (CC Zero)"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "a497c5a92df4c8cd",
   "lastOpenFiles": [
-    "TIL/Unlicense (CC Zero).md",
     "TIL/index.md",
+    "TIL/Unlicense (CC Zero).md",
     "TIL/Unlicense.md",
     "TIL/Unlicense .md",
     "Books/Designing Data-Intensive Applications/1. Trade-Offs in Data Systems Architecture.md",
