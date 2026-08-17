@@ -219,8 +219,8 @@ plugins:
         GitHub: https://github.com/dheepakg/vault
         Twitter: https://twitter.com/dheepakg
         Bluesky: https://bsky.app/profile/dheepak.bsky.social
-        Changelog: ./Changelog
-        Credits: ./Credits
+        Changelog: ./changelog
+        Credits: ./credits
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
