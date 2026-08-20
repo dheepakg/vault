@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13e4b9469e4710ba",
+        "id": "3c1a06f8202805ae",
         "type": "tabs",
         "children": [
           {
-            "id": "2309c88dcba1b69e",
+            "id": "191435f0b3f33e93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Studies/Intro To Deep Learning/Lecture 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Studies/Intro To Deep Learning/Screenshot 2026-08-20 at 7.05.15 AM.png"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 1"
+              "icon": "lucide-image",
+              "title": "Screenshot 2026-08-20 at 7.05.15 AM"
             }
           }
         ]
@@ -227,17 +225,10 @@
       }
     ]
   },
-  "active": "f3740c890ef6a05e",
+  "active": "191435f0b3f33e93",
   "lastOpenFiles": [
-    "Studies/Intro To Deep Learning/img_deep_neural_network.png",
-    "Studies/Intro To Deep Learning/img_multi_output_perceptron.png",
-    "Studies/Intro To Deep Learning/img_single_layer_neural_network.png",
-    "Studies/Intro To Deep Learning/img_multi_output.png",
     "Studies/Intro To Deep Learning/Lecture 1.md",
-    "img_simplified_perceptron.md",
-    "Studies/Intro To Deep Learning/img_simplified_perceptron.png",
     "Studies/Intro To Deep Learning/Screenshot 2026-08-20 at 7.05.15 AM.png",
-    "Studies/Intro To Deep Learning/img_single_neuron.png",
     "Studies/Intro To Deep Learning/img_perceptron.png",
     "Studies/Intro To Deep Learning/index.md",
     "Studies/Intro To Deep Learning/Torch.md",
@@ -260,6 +251,7 @@
     "Books/cover_images/06-bulls-bears.jpg",
     "Books/cover_images/01-psych-money.jpg",
     "Books/cover_images",
+    "Books/cover_images/design-data-intensive.jpeg",
     "base-Quotes.base",
     "base-Books.base",
     "Untitled 1.base",
@@ -270,7 +262,9 @@
     "Quotes/Solution & Trade-offs.md",
     "Quotes/On Owenrship.md",
     "TIL/Solomon's  Paradox.md",
+    "TIL/Natural scrolling.md",
     "Books/Designing Data-Intensive Applications",
+    "Studies/Intro To Deep Learning/img_aimldl.png",
     "Studies/Math",
     "Studies",
     "templates",
