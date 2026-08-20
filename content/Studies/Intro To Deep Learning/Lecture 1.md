@@ -132,7 +132,7 @@ Deep Neural Network a neural network with more than 3 layers.
 
 $$
 
-z_{k,i} = w_{o,i}^{(k)}   +  \sum_{j=i}^n g(z_{k-1,j}) x_j w_{j,i}^{(k)}
+z_{k,i} = w_{o,i}^{(k)}   +  \sum_{j=i}^{n_{k-1}} g(z_{k-1,j}) x_j w_{j,i}^{(k)}
 
 $$
 
