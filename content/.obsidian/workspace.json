@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "02bc7906130a3ab8",
+        "id": "3c1a06f8202805ae",
         "type": "tabs",
         "children": [
           {
-            "id": "a497c5a92df4c8cd",
+            "id": "191435f0b3f33e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/Unlicense (CC Zero).md",
-                "mode": "source",
-                "source": false
+                "file": "Studies/Intro To Deep Learning/Lecture 1.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Unlicense (CC Zero)"
+              "title": "Lecture 1"
             }
           }
         ]
@@ -188,10 +188,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "a497c5a92df4c8cd",
+  "floating": {
+    "id": "fbeb89e6663d7b85",
+    "type": "floating",
+    "children": [
+      {
+        "id": "918a5f74b72c987e",
+        "type": "window",
+        "children": [
+          {
+            "id": "298048156612bc84",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b378605f3de8414",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Studies/Intro To Deep Learning/Lecture 1.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lecture 1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 84,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6b378605f3de8414",
   "lastOpenFiles": [
-    "TIL/index.md",
+    "Studies/Intro To Deep Learning/img_perceptron.png",
+    "Studies/Intro To Deep Learning/Lecture 1.md",
+    "Studies/Intro To Deep Learning/index.md",
+    "Studies/Intro To Deep Learning/Torch.md",
+    "Studies/Intro To Deep Learning/Tensors.md",
     "TIL/Unlicense (CC Zero).md",
+    "TIL/index.md",
     "TIL/Unlicense.md",
     "TIL/Unlicense .md",
     "Books/Designing Data-Intensive Applications/1. Trade-Offs in Data Systems Architecture.md",
@@ -220,12 +264,7 @@
     "Quotes/On Owenrship.md",
     "TIL/Solomon's  Paradox.md",
     "TIL/Natural scrolling.md",
-    "index.md",
-    "Studies/Math/Mean vs Median vs Mode vs Standard deviation.md",
-    "Studies/Math/Returns - Cagr vs xirr vs irr.md",
-    "Books/Untitled.md",
     "Books/Designing Data-Intensive Applications",
-    "Credits.md",
     "Studies/Intro To Deep Learning/img_aimldl.png",
     "Studies/Math",
     "Studies",
