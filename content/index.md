@@ -1,7 +1,5 @@
 ---
 title: My version of Second brain
-tags:
-  - StartHere
 ---
 
 
