@@ -136,6 +136,115 @@ z_{k,i} = w_{o,i}^{(k)}   +  \sum_{j=i}^{n_{k-1}} g(z_{k-1,j}) x_j w_{j,i}^{(k)}
 
 $$
 
+
+### Loss
+1. **Quantifying Loss** - The loss of our network measures the cost incurred from incorrect predictions.
+
+2. **Binary Cross Entropy Loss** - Can be used with models that output probability between 0 and 1.
+
+3. **Mean Squared Error** - Can be used with models that output continuous real numbers.
+
+
+## Training Neural Networks
+
+**Loss Optimization** - We want to find the ==network weights== that **achieve lowest loss**. 
+
+### Gradient Descent
+**Algorithm** 
+1. Initialize  weights randomly $$ N (0, \sigma^2) $$
+2. Loop until convergence 
+3. Compute Gradient $$ \frac {\partial J(W)}{\partial W} $$ 
+4. Update weights $$ W \leftarrow W - \eta \frac {\partial J(W)}{\partial W}  \text{ where\ } \eta \text{\ is } \textbf{Learning Rate}$$
+5. Return weights
+
+
+## Neural Networks in Practise: Optimization
+
+- Loss can be difficult to optimize
+- Optimization through gradient descent $$ W \leftarrow W - \eta \frac {\partial J(W)}{\partial W}  \text{ where\ } \eta \text{\ is } \textbf{Learning Rate}$$
+
+**Setting Learning Rate**
+
+- **Small learning rate** converges slowly and get stuck in false local minima.
+- **Large learning rate** overshoot, become unstable and diverge.
+- **Stable learning rate** converges smoothly and avoid local minima.
+
+
+### Adaptive Learning rate
+1. Learnings are no longer fixed.
+2. Can be made larger or smaller based on,
+	1. How large gradient is
+	2. How fast learning is happening
+	3. Size of particular weights
+	4. and more
+
+## Neural Networks in Practise: Mini-batches
+
+### Stochastic Gradient Descent
+
+Pick a *random* point and find the gradient.
+
+Gradient calculation -  $$ \frac {\partial J_{i}(W)}{\partial W} $$ 
+This is very noisy but easier to calculate.
+
+#### Batches
+
+To have reduce the noise, we can go for mini batches
+
+
+> [!Batches]
+>  Common batch size is 32.
+>  But for LLMs the batch size can be *millions*.
+
+#### Algorithm
+
+1. Initialize  weights randomly $$ N (0, \sigma^2) $$
+2. Loop until convergence 
+	1. Pick a batch size B.
+	2. Compute Gradient $$ \frac {\partial J(W)}{\partial W} = \frac {1}{B} \sum_{k=1}^{B} \frac {\partial J_{k}(W)}{\partial W}   $$ 
+	3. Update weights $$ W \leftarrow W - \eta \frac {\partial J(W)}{\partial W}  \text{ where\ } \eta \text{\ is } \textbf{Learning Rate}$$
+3. Return weights
+
+#### Mini Batches 
+1. More accurate estimation of Gradient
+2. Smoother convergence
+3. Allows for larger  learning rates
+4. Mini batches lead to faster trainings
+5. Can parallelize computation
+	1. Achieve significant speed with increases on GPU's
+
+## Neural Networks in Practise: Overfitting
+
+### Overfitting
+
+Overfitting: Very good at training dataset, but not generalize enough to work on testing dataset.
+
+- Too complex
+- Extra parameters
+- Does not generalize well
+
+### Regularization
+
+Technique that constrains our optimization problem o discourage complex models.
+
+
+- Why do we need it?
+	- Improve generalization of our model even on unseen data
+
+#### Regularization I : Dropout
+
+1. During training, randomly set some activations to 0
+	- Typically 'drop' 50% of activation in the layer
+	- Forces Neurons to not rely on any 1 node
+	- Increases resiliency
+2. Dropout is Architectural level Regularization
+
+#### Regularization I : Early Stopping
+
+1. Stop training before we have a chance to overfit.
+2. 
+
+
 ---
 
 
