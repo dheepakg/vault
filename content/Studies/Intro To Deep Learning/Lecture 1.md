@@ -239,10 +239,10 @@ Technique that constrains our optimization problem o discourage complex models.
 	- Increases resiliency
 2. Dropout is Architectural level Regularization
 
-#### Regularization I : Early Stopping
+#### Regularization II : Early Stopping
 
 1. Stop training before we have a chance to overfit.
-2. 
+2. We stop before the divergence sets in
 
 
 ---
