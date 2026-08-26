@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47134260dfc456fa",
+        "id": "e50348a33fffcbd6",
         "type": "tabs",
         "children": [
           {
-            "id": "89cc50ea64230d3d",
+            "id": "08e73166e65037b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -184,8 +188,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "89cc50ea64230d3d",
+  "active": "08e73166e65037b9",
   "lastOpenFiles": [
+    "Books/index.md",
     "Studies/Intro To Deep Learning/Lecture 2.md",
     "Studies/Intro To Deep Learning/L2-rnn-computational-graph-across-time.png",
     "Studies/Intro To Deep Learning/L2-recurrent-neural-network.png",
@@ -216,7 +221,6 @@
     "Books/Designing Data-Intensive Applications/3. Data Models and Query Languages.md",
     "Books/Designing Data-Intensive Applications/index.md",
     "Don’t Hold My Data Hostage.pdf",
-    "Books/index.md",
     "Books/Bulls, Bears and Other Beasts.md",
     "Books/The Psychology of Money.md",
     "Books/Why We Sleep Unlocking the Power of Sleep and Dreams.md",
