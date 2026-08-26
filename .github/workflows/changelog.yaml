@@ -1,0 +1,43 @@
+name: Update content changelog
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: changelog
+  cancel-in-progress: false
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+      - name: Install Python dependencies
+        run: python -m pip install -r scripts/requirements.txt
+      - name: Generate changelog
+        run: python scripts/generate_changelog.py --write
+      - name: Commit and push changelog
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/Changelog.md
+          if git diff --cached --quiet; then
+            echo "Changelog is already up to date."
+          else
+            git commit -m "Update content changelog"
+            git push
+          fi
