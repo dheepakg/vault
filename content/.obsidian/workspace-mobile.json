@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ec2688af07885b",
+        "id": "71fbc43ed21a767f",
         "type": "tabs",
         "children": [
           {
-            "id": "9782c7a8a14773ea",
+            "id": "02f259e93d39acf8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9782c7a8a14773ea",
+  "active": "02f259e93d39acf8",
   "lastOpenFiles": [
+    "Wedding expenses.md",
+    "Astrotalk.md",
     "TIL/Unlicense.md",
     "Books/Bulls, Bears and Other Beasts.md",
     "Books/The Psychology of Money.md",

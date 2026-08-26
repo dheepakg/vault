@@ -1,5 +1,5 @@
 ---
-title: "Lecture 1: Intro to Deep Learning"
+title: 1. Intro to Deep Learning
 draft: false
 tags:
   - DeepLearning

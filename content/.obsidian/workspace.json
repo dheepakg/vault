@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13e4b9469e4710ba",
+        "id": "47134260dfc456fa",
         "type": "tabs",
         "children": [
           {
-            "id": "2309c88dcba1b69e",
+            "id": "89cc50ea64230d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Intro To Deep Learning/Lecture 1.md",
+                "file": "Studies/Intro To Deep Learning/Lecture 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "Lecture 2"
             }
           }
         ]
@@ -193,25 +193,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "918a5f74b72c987e",
+        "id": "82160ce80f0817e3",
         "type": "window",
         "children": [
           {
-            "id": "298048156612bc84",
+            "id": "7a9efe61c38b3a4d",
             "type": "tabs",
             "children": [
               {
-                "id": "6b378605f3de8414",
+                "id": "64db3ed37ee1e672",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Studies/Intro To Deep Learning/Lecture 1.md",
+                    "file": "Studies/Intro To Deep Learning/Lecture 2.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Lecture 1"
+                  "title": "Lecture 2"
                 }
               }
             ]
@@ -227,18 +227,27 @@
       }
     ]
   },
-  "active": "6b378605f3de8414",
+  "active": "64db3ed37ee1e672",
   "lastOpenFiles": [
+    "Studies/Intro To Deep Learning/L2-rnn-computational-graph-across-time.png",
+    "Studies/Intro To Deep Learning/L2-recurrent-neural-network.png",
+    "Studies/Intro To Deep Learning/L2-feed-forward-network.png",
+    "Studies/Intro To Deep Learning/L2-neurons-with-recurrence.png",
+    "Studies/Intro To Deep Learning/Lecture 2.md",
+    "Studies/Intro To Deep Learning/Lecture 1.md",
+    "templates/Quotes.md",
+    "index.md",
+    "Untitled.base",
+    "Quotes/index.md",
+    "TIL/Natural scrolling.md",
     "Studies/Intro To Deep Learning/img_deep_neural_network.png",
     "Studies/Intro To Deep Learning/img_multi_output_perceptron.png",
     "Studies/Intro To Deep Learning/img_single_layer_neural_network.png",
     "Studies/Intro To Deep Learning/img_multi_output.png",
-    "Studies/Intro To Deep Learning/Lecture 1.md",
     "img_simplified_perceptron.md",
     "Studies/Intro To Deep Learning/img_simplified_perceptron.png",
     "Studies/Intro To Deep Learning/Screenshot 2026-08-20 at 7.05.15 AM.png",
     "Studies/Intro To Deep Learning/img_single_neuron.png",
-    "Studies/Intro To Deep Learning/img_perceptron.png",
     "Studies/Intro To Deep Learning/index.md",
     "Studies/Intro To Deep Learning/Torch.md",
     "Studies/Intro To Deep Learning/Tensors.md",
@@ -250,30 +259,21 @@
     "Books/Designing Data-Intensive Applications/2. Defining Nonfunctional Requirements.md",
     "Books/Designing Data-Intensive Applications/3. Data Models and Query Languages.md",
     "Books/Designing Data-Intensive Applications/index.md",
-    "Quotes/index.md",
     "Don’t Hold My Data Hostage.pdf",
     "Books/index.md",
     "Books/Bulls, Bears and Other Beasts.md",
     "Books/The Psychology of Money.md",
     "Books/Why We Sleep Unlocking the Power of Sleep and Dreams.md",
-    "Books/cover_images/04-why-we-sleep.jpg",
-    "Books/cover_images/06-bulls-bears.jpg",
-    "Books/cover_images/01-psych-money.jpg",
     "Books/cover_images",
     "base-Quotes.base",
     "base-Books.base",
     "Untitled 1.base",
-    "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Quotes/On internet.md",
-    "Quotes/Solution & Trade-offs.md",
-    "Quotes/On Owenrship.md",
-    "TIL/Solomon's  Paradox.md",
     "Books/Designing Data-Intensive Applications",
     "Studies/Math",
     "Studies",
-    "templates",
-    "Quotes"
+    "templates"
   ]
 }
