@@ -3,6 +3,7 @@ title: "The Most Important Thing: Uncommon Sense for The Thoughtful Investor"
 tags:
   - finance
   - investment
+  - book
 category: Finance
 Author: Howard S Marks
 date: 2021-05-22
