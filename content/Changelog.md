@@ -7,6 +7,7 @@ title: Changelog
 ## 2026-08-29
 
 - Changed - [books / 3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/3.%20The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
+- Changed - [books / The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
 
 ## 2026-08-26
 
