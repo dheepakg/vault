@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: dheepakg.github.io/vault
+  baseUrl: https://dheepakg.github.io/vault
   ignorePatterns:
     - private
     - templates
@@ -224,8 +224,8 @@ plugins:
         GitHub: https://github.com/dheepakg/vault
         Twitter: https://twitter.com/dheepakg
         Bluesky: https://bsky.app/profile/dheepak.bsky.social
-        Changelog: ./changelog
-        Credits: ./credits
+        Changelog: /Changelog
+        Credits: /Credits
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
