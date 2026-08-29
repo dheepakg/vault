@@ -4,6 +4,10 @@ unlisted: true
 title: Changelog
 ---
 
+## 2026-08-29
+
+- Changed - [books / 3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/3.%20The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
+
 ## 2026-08-26
 
 - Changed - [Home / index](./index.md)
@@ -49,6 +53,7 @@ title: Changelog
 - Added - [Designing Data-Intensive Applications / 2. Defining Nonfunctional Requirements](./books/Designing%20Data-Intensive%20Applications/2.%20Defining%20Nonfunctional%20Requirements.md)
 - Added - [Designing Data-Intensive Applications / index](./books/Designing%20Data-Intensive%20Applications/index.md)
 - Changed - [finance / 1. The Psychology of Money](./books/finance/1.%20The%20Psychology%20of%20Money.md)
+- Changed - [finance / 3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/finance/3.%20The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
 - Changed - [books / index](./books/index.md)
 - Changed - [books / The Psychology of Money](./books/The%20Psychology%20of%20Money.md)
 - Changed - [books / Why We Sleep Unlocking the Power of Sleep and Dreams](./books/Why%20We%20Sleep%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams.md)
@@ -79,6 +84,7 @@ title: Changelog
 ## 2026-07-18
 
 - Added - [finance / 1. The Psychology of Money](./books/finance/1.%20The%20Psychology%20of%20Money.md)
+- Added - [finance / 3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/finance/3.%20The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
 - Added - [finance / 4. Bulls, Bears and Other Beasts](./books/finance/4.%20Bulls%2C%20Bears%20and%20Other%20Beasts.md)
 - Added - [health / 1. Why We Sleep Unlocking the Power of Sleep and Dreams](./books/health/1.%20Why%20We%20Sleep%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams.md)
 - Added - [Home / Credits](./Credits.md)
