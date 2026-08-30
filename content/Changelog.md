@@ -4,6 +4,12 @@ unlisted: true
 title: Changelog
 ---
 
+## 2026-08-30
+
+- Changed - [books / Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think](./books/Factfulness%20Ten%20Reasons%20We%27re%20Wrong%20About%20The%20World%20-%20And%20Why%20Things%20Are%20Better%20Than%20You%20Think.md)
+- Changed - [books / The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
+- Changed - [Intro To Deep Learning / Lecture 2](./Studies/Intro%20To%20Deep%20Learning/Lecture%202.md)
+
 ## 2026-08-29
 
 - Changed - [books / 3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/3.%20The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
@@ -88,6 +94,7 @@ title: Changelog
 - Added - [finance / 3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/finance/3.%20The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
 - Added - [finance / 4. Bulls, Bears and Other Beasts](./books/finance/4.%20Bulls%2C%20Bears%20and%20Other%20Beasts.md)
 - Added - [health / 1. Why We Sleep Unlocking the Power of Sleep and Dreams](./books/health/1.%20Why%20We%20Sleep%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams.md)
+- Added - [others / Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think](./books/others/Factfulness%20Ten%20Reasons%20We%27re%20Wrong%20About%20The%20World%20-%20And%20Why%20Things%20Are%20Better%20Than%20You%20Think.md)
 - Added - [Home / Credits](./Credits.md)
 - Added - [DL / AI vs ML vs DL](./DL/AI%20vs%20ML%20vs%20DL.md)
 - Added - [DL / index](./DL/index.md)
