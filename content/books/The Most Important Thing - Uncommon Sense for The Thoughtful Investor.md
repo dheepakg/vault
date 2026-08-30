@@ -6,7 +6,7 @@ tags:
   - book
 category: Finance
 Author: Howard S Marks
-date: 2021-05-22
+started on: 2021-05-22
 draft: false
 cover: cover_images/03-important-things.jpg
 ---

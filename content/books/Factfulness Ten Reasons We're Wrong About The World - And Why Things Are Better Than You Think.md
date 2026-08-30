@@ -3,10 +3,13 @@ title: "Factfulness: Ten Reasons We're Wrong About The World - And Why Things Ar
 tags:
   - Hope
   - Visualization
+  - book
 category: Health
 author: Hans Rosling
-date: 2022-01-30
-draft: "true"
+started on: 2022-01-30
+draft:
+  - "false"
+cover: cover_images/05-factfulness.jpg
 ---
 
 
