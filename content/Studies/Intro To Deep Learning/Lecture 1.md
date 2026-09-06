@@ -12,7 +12,7 @@ tags:
 Perceptron is a basic component of Neural network.
 
 
-![](img_perceptron.png)
+![](images/img_perceptron.png)
 
 
 
@@ -65,7 +65,7 @@ w_1 \\ w_2 \\ . \\ . \\ w_m
 \end{bmatrix}
 $$
 
-![](img_single_neuron.png)
+![](images/img_single_neuron.png)
 
 
 > [!Single Neuron]
@@ -73,7 +73,7 @@ $$
 
 ### Perceptron: Simplified
 
-![](img_simplified_perceptron.png)
+![](images/img_simplified_perceptron.png)
 
 $$
 z = w_0   +  \sum_{j=i}^m x_j w_j
@@ -87,7 +87,7 @@ $$
 
 ### Multi Output Perceptron
 
-![](img_multi_output.png)
+![](images/img_multi_output.png)
 
 $$
 Z_i = w_{o,i}   +  \sum_{j=i}^m x_j w_{j,i}
@@ -100,7 +100,7 @@ $$
 
 ### Single Layer Neural Network
 
-![](img_single_layer_neural_network.png)
+![](images/img_single_layer_neural_network.png)
 
 Hidden layer is,
 
@@ -120,14 +120,14 @@ $$
 
 The connection are simplified, and those are _matrix multiplication_.
 
-![](img_multi_output_perceptron.png)
+![](images/img_multi_output_perceptron.png)
 
 
 ## Deep Neural Network
 
 Deep Neural Network a neural network with more than 3 layers.
 
-![](img_deep_neural_network.png)
+![](images/img_deep_neural_network.png)
 
 
 $$
@@ -147,13 +147,13 @@ $$
 
 ## Training Neural Networks
 
-**Loss Optimization** - We want to find the ==network weights== that **achieve lowest loss**. 
+**Loss Optimization** - We want to find the ==network weights== that **achieve lowest loss**.
 
 ### Gradient Descent
-**Algorithm** 
+**Algorithm**
 1. Initialize  weights randomly $$ N (0, \sigma^2) $$
-2. Loop until convergence 
-3. Compute Gradient $$ \frac {\partial J(W)}{\partial W} $$ 
+2. Loop until convergence
+3. Compute Gradient $$ \frac {\partial J(W)}{\partial W} $$
 4. Update weights $$ W \leftarrow W - \eta \frac {\partial J(W)}{\partial W}  \text{ where\ } \eta \text{\ is } \textbf{Learning Rate}$$
 5. Return weights
 
@@ -184,7 +184,7 @@ $$
 
 Pick a *random* point and find the gradient.
 
-Gradient calculation -  $$ \frac {\partial J_{i}(W)}{\partial W} $$ 
+Gradient calculation -  $$ \frac {\partial J_{i}(W)}{\partial W} $$
 This is very noisy but easier to calculate.
 
 #### Batches
@@ -199,13 +199,13 @@ To have reduce the noise, we can go for mini batches
 #### Algorithm
 
 1. Initialize  weights randomly $$ N (0, \sigma^2) $$
-2. Loop until convergence 
+2. Loop until convergence
 	1. Pick a batch size B.
-	2. Compute Gradient $$ \frac {\partial J(W)}{\partial W} = \frac {1}{B} \sum_{k=1}^{B} \frac {\partial J_{k}(W)}{\partial W}   $$ 
+	2. Compute Gradient $$ \frac {\partial J(W)}{\partial W} = \frac {1}{B} \sum_{k=1}^{B} \frac {\partial J_{k}(W)}{\partial W}   $$
 	3. Update weights $$ W \leftarrow W - \eta \frac {\partial J(W)}{\partial W}  \text{ where\ } \eta \text{\ is } \textbf{Learning Rate}$$
 3. Return weights
 
-#### Mini Batches 
+#### Mini Batches
 1. More accurate estimation of Gradient
 2. Smoother convergence
 3. Allows for larger  learning rates

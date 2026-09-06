@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think.md",
-                "mode": "source",
-                "source": false
+                "file": "Studies/Intro To Deep Learning/Lecture 2.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think"
+              "title": "Lecture 2"
             }
           }
         ]
@@ -191,21 +191,21 @@
   "active": "a859aef8b3fdb726",
   "lastOpenFiles": [
     "Books/index.md",
+    "Books/Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think.md",
+    "Books/Bulls, Bears and Other Beasts.md",
     "Studies/Intro To Deep Learning/index.md",
     "Studies/Intro To Deep Learning/Lecture 2.md",
     "Studies/Intro To Deep Learning/images",
-    "Books/Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think.md",
     "Books/cover_images/05-factfullness.jpg",
-    "Books/Bulls, Bears and Other Beasts.md",
     "Books/The Most Important Thing - Uncommon Sense for The Thoughtful Investor.md",
     "Books/The Psychology of Money.md",
     "Books/Why We Sleep Unlocking the Power of Sleep and Dreams.md",
     "Quotes/index.md",
     "Books/Designing Data-Intensive Applications/index.md",
-    "Studies/Intro To Deep Learning/L2-rnn-computational-graph-across-time.png",
-    "Studies/Intro To Deep Learning/L2-recurrent-neural-network.png",
-    "Studies/Intro To Deep Learning/L2-feed-forward-network.png",
-    "Studies/Intro To Deep Learning/L2-neurons-with-recurrence.png",
+    "Studies/Intro To Deep Learning/images/L2-rnn-computational-graph-across-time.png",
+    "Studies/Intro To Deep Learning/images/L2-recurrent-neural-network.png",
+    "Studies/Intro To Deep Learning/images/L2-feed-forward-network.png",
+    "Studies/Intro To Deep Learning/images/L2-neurons-with-recurrence.png",
     "Studies/Intro To Deep Learning/Lecture 1.md",
     "templates/Quotes.md",
     "index.md",
