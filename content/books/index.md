@@ -15,7 +15,7 @@ views:
     order: []
     sort:
       - property: started on
-        direction: DESC
+        direction: ASC
     image: note.cover
     imageAspectRatio: 0.95
     imageFit: contain

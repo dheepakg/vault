@@ -12,7 +12,7 @@ tags:
 Perceptron is a basic component of Neural network.
 
 
-![](images/img_perceptron.png)
+![](img_perceptron.png)
 
 
 
@@ -65,7 +65,7 @@ w_1 \\ w_2 \\ . \\ . \\ w_m
 \end{bmatrix}
 $$
 
-![](images/img_single_neuron.png)
+![](img_single_neuron.png)
 
 
 > [!Single Neuron]
@@ -73,7 +73,7 @@ $$
 
 ### Perceptron: Simplified
 
-![](images/img_simplified_perceptron.png)
+![](img_simplified_perceptron.png)
 
 $$
 z = w_0   +  \sum_{j=i}^m x_j w_j
@@ -87,7 +87,7 @@ $$
 
 ### Multi Output Perceptron
 
-![](images/img_multi_output.png)
+![](img_multi_output.png)
 
 $$
 Z_i = w_{o,i}   +  \sum_{j=i}^m x_j w_{j,i}
@@ -100,7 +100,7 @@ $$
 
 ### Single Layer Neural Network
 
-![](images/img_single_layer_neural_network.png)
+![](img_single_layer_neural_network.png)
 
 Hidden layer is,
 
@@ -120,14 +120,14 @@ $$
 
 The connection are simplified, and those are _matrix multiplication_.
 
-![](images/img_multi_output_perceptron.png)
+![](img_multi_output_perceptron.png)
 
 
 ## Deep Neural Network
 
 Deep Neural Network a neural network with more than 3 layers.
 
-![](images/img_deep_neural_network.png)
+![](img_deep_neural_network.png)
 
 
 $$
