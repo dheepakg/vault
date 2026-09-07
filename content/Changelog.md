@@ -4,6 +4,11 @@ unlisted: true
 title: Changelog
 ---
 
+## 2026-09-06
+
+- Changed - [Intro To Deep Learning / Lecture 1](./Studies/Intro%20To%20Deep%20Learning/Lecture%201.md)
+- Changed - [Intro To Deep Learning / Lecture 2](./Studies/Intro%20To%20Deep%20Learning/Lecture%202.md)
+
 ## 2026-08-30
 
 - Changed - [books / Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think](5.%20Factfulness%20Ten%20Reasons%20We're%20Wrong%20About%20The%20World%20-%20And%20Why%20Things%20Are%20Better%20Than%20You%20Think.md)
