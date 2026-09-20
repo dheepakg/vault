@@ -4,6 +4,10 @@ unlisted: true
 title: Changelog
 ---
 
+## 2026-09-20
+
+- Changed - [books / index](./books/index.md)
+
 ## 2026-09-07
 
 - Changed - [books / 1. The Psychology of Money](./books/1.%20The%20Psychology%20of%20Money.md)
