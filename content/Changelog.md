@@ -6,12 +6,17 @@ title: Changelog
 
 ## 2026-09-20
 
+- Changed - [books / 10. predictably-irrational](./books/10.%20predictably-irrational.md)
+- Added - [books / 11. 80 20 Your Life! How to Get More Done With Less E](./books/11.%2080%2020%20Your%20Life%21%20How%20to%20Get%20More%20Done%20With%20Less%20E.md)
+- Added - [books / 12. Show Your Work! 10 Ways to Share Your Creativity and Get Discovered](./books/12.%20Show%20Your%20Work%21%2010%20Ways%20to%20Share%20Your%20Creativity%20and%20Get%20Discovered.md)
+- Added - [books / 13. The Science of Stock Market Investment - Practical Guide to Intelligent Investors](./books/13.%20The%20Science%20of%20Stock%20Market%20Investment%20-%20Practical%20Guide%20to%20Intelligent%20Investors.md)
+- Added - [books / 14. Steal Like an Artist! 10 Things Nobody Told You About Being Creative](./books/14.%20Steal%20Like%20an%20Artist%21%2010%20Things%20Nobody%20Told%20You%20About%20Being%20Creative.md)
 - Changed - [books / index](./books/index.md)
 
 ## 2026-09-07
 
 - Changed - [books / 1. The Psychology of Money](./books/1.%20The%20Psychology%20of%20Money.md)
-- Added - [books / 10-predictably-irrational](10.%20predictably-irrational.md)
+- Added - [books / 10-predictably-irrational](./books/10-predictably-irrational.md)
 - Changed - [books / 3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/3.%20The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
 - Changed - [books / 4. Why We Sleep Unlocking the Power of Sleep and Dreams](./books/4.%20Why%20We%20Sleep%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams.md)
 - Changed - [books / 5. Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think](./books/5.%20Factfulness%20Ten%20Reasons%20We%27re%20Wrong%20About%20The%20World%20-%20And%20Why%20Things%20Are%20Better%20Than%20You%20Think.md)
@@ -117,7 +122,7 @@ title: Changelog
 - Changed - [Home / index](./index.md)
 - Added - [Quotes / Solution & Trade-offs](./Quotes/Solution%20%26%20Trade-offs.md)
 - Added - [templates / Quotes](./templates/Quotes.md)
-- Changed - [Home / Untitled](12.%20Show%20Your%20Work!%2010%20Ways%20to%20Share%20Your%20Creativity%20and%20Get%20Discovered.md)
+- Changed - [Home / Untitled](./Untitled.md)
 
 ## 2026-07-18
 
