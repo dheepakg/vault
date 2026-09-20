@@ -19,6 +19,7 @@ views:
     image: note.cover
     imageAspectRatio: 0.95
     imageFit: contain
+    cardSize: 150
   - type: table
     name: Table View
     filters:
