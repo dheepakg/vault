@@ -7,7 +7,7 @@ title: Changelog
 ## 2026-09-07
 
 - Changed - [books / 1. The Psychology of Money](./books/1.%20The%20Psychology%20of%20Money.md)
-- Added - [books / 10-predictably-irrational](./books/10-predictably-irrational.md)
+- Added - [books / 10-predictably-irrational](10.%20predictably-irrational.md)
 - Changed - [books / 3. The Most Important Thing - Uncommon Sense for The Thoughtful Investor](./books/3.%20The%20Most%20Important%20Thing%20-%20Uncommon%20Sense%20for%20The%20Thoughtful%20Investor.md)
 - Changed - [books / 4. Why We Sleep Unlocking the Power of Sleep and Dreams](./books/4.%20Why%20We%20Sleep%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams.md)
 - Changed - [books / 5. Factfulness Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think](./books/5.%20Factfulness%20Ten%20Reasons%20We%27re%20Wrong%20About%20The%20World%20-%20And%20Why%20Things%20Are%20Better%20Than%20You%20Think.md)
@@ -113,7 +113,7 @@ title: Changelog
 - Changed - [Home / index](./index.md)
 - Added - [Quotes / Solution & Trade-offs](./Quotes/Solution%20%26%20Trade-offs.md)
 - Added - [templates / Quotes](./templates/Quotes.md)
-- Changed - [Home / Untitled](./Untitled.md)
+- Changed - [Home / Untitled](12.%20Show%20Your%20Work!%2010%20Ways%20to%20Share%20Your%20Creativity%20and%20Get%20Discovered.md)
 
 ## 2026-07-18
 
